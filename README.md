@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Allan.👋
 
-Sou estudante de Ciência de Dados e Inteligência Artificial na PUC-SP.
+Sou estudante de Ciência de Dados e Inteligência Artificial na PUC-SP. Tenho 19 anos.
 
 Atualmente, estou desenvolvendo conhecimentos em programação, análise de dados, estatística e inteligência artificial.
 
