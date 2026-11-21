@@ -13,11 +13,11 @@ Atualmente, estou desenvolvendo conhecimentos em programação, análise de dado
 
 ## Projetos acadêmicos
 
-### 1. Análise de Dados
-Projeto acadêmico desenvolvido durante a graduação, envolvendo análise e interpretação de dados.
+### 1. Data Mining
+Projeto acadêmico desenvolvido durante a graduação, envolvendo técnicas de mineração e análise de dados.
 
-### 2. Modelagem Estatística
-Projeto envolvendo aplicação de modelos estatísticos e técnicas de análise de dados.
+### 2. Americanas Data Analysis
+Projeto acadêmico voltado à análise de dados da Americanas, desenvolvido durante a graduação.
 
 ## Objetivo profissional
 
